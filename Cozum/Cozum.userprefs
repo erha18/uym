@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C1D10887-F03F-4446-85C7-FAB7CB53C2A4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Web/Startup.cs">
+    <Files>
+      <File FileName="../Web/Kurulum.cs" Line="1" Column="1" />
+      <File FileName="../Web/Program.cs" Line="1" Column="1" />
+      <File FileName="../Web/Startup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Web PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

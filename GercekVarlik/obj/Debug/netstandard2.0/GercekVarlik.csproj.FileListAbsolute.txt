@@ -1,0 +1,9 @@
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/bin/Debug/netstandard2.0/GercekVarlik.deps.json
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/bin/Debug/netstandard2.0/GercekVarlik.dll
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/bin/Debug/netstandard2.0/GercekVarlik.pdb
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/obj/Debug/netstandard2.0/GercekVarlik.csprojResolveAssemblyReference.cache
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/obj/Debug/netstandard2.0/GercekVarlik.csproj.CoreCompileInputs.cache
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/obj/Debug/netstandard2.0/GercekVarlik.AssemblyInfoInputs.cache
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/obj/Debug/netstandard2.0/GercekVarlik.AssemblyInfo.cs
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/obj/Debug/netstandard2.0/GercekVarlik.dll
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/obj/Debug/netstandard2.0/GercekVarlik.pdb

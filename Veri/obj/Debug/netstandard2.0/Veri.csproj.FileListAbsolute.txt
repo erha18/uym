@@ -1,0 +1,11 @@
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/bin/Debug/netstandard2.0/Veri.deps.json
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/bin/Debug/netstandard2.0/Veri.dll
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/bin/Debug/netstandard2.0/Veri.pdb
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/bin/Debug/netstandard2.0/GercekVarlik.dll
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/bin/Debug/netstandard2.0/GercekVarlik.pdb
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/obj/Debug/netstandard2.0/Veri.csprojResolveAssemblyReference.cache
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/obj/Debug/netstandard2.0/Veri.csproj.CoreCompileInputs.cache
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/obj/Debug/netstandard2.0/Veri.AssemblyInfoInputs.cache
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/obj/Debug/netstandard2.0/Veri.AssemblyInfo.cs
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/obj/Debug/netstandard2.0/Veri.dll
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/obj/Debug/netstandard2.0/Veri.pdb

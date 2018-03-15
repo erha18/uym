@@ -1,0 +1,15 @@
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/bin/Debug/netstandard2.0/Birim.deps.json
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/bin/Debug/netstandard2.0/Birim.dll
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/bin/Debug/netstandard2.0/Birim.pdb
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/bin/Debug/netstandard2.0/GercekVarlik.dll
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/bin/Debug/netstandard2.0/SuretVarlik.dll
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/bin/Debug/netstandard2.0/Veri.dll
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/bin/Debug/netstandard2.0/GercekVarlik.pdb
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/bin/Debug/netstandard2.0/SuretVarlik.pdb
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/bin/Debug/netstandard2.0/Veri.pdb
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/obj/Debug/netstandard2.0/Birim.csprojResolveAssemblyReference.cache
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/obj/Debug/netstandard2.0/Birim.csproj.CoreCompileInputs.cache
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/obj/Debug/netstandard2.0/Birim.AssemblyInfoInputs.cache
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/obj/Debug/netstandard2.0/Birim.AssemblyInfo.cs
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/obj/Debug/netstandard2.0/Birim.dll
+/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/obj/Debug/netstandard2.0/Birim.pdb

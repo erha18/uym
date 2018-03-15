@@ -1,0 +1,120 @@
+﻿@model WebBirim.GenelTip.Model.KisiAlan.KisiKayitModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>OrnekForm</title>
+</head>
+<body>
+
+<h4>KisiKayitModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="OrnekForm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Parola" class="control-label"></label>
+                <input asp-for="Parola" class="form-control" />
+                <span asp-validation-for="Parola" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParolaTekrar" class="control-label"></label>
+                <input asp-for="ParolaTekrar" class="form-control" />
+                <span asp-validation-for="ParolaTekrar" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Eposta" class="control-label"></label>
+                <input asp-for="Eposta" class="form-control" />
+                <span asp-validation-for="Eposta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Soyad" class="control-label"></label>
+                <input asp-for="Soyad" class="form-control" />
+                <span asp-validation-for="Soyad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Ad" class="control-label"></label>
+                <input asp-for="Ad" class="form-control" />
+                <span asp-validation-for="Ad" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="SozlesmeOnay" /> @Html.DisplayNameFor(model => model.SozlesmeOnay)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="YenilikKampanyaTakip" /> @Html.DisplayNameFor(model => model.YenilikKampanyaTakip)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="MacAdr" class="control-label"></label>
+                <input asp-for="MacAdr" class="form-control" />
+                <span asp-validation-for="MacAdr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IpAdr" class="control-label"></label>
+                <input asp-for="IpAdr" class="form-control" />
+                <span asp-validation-for="IpAdr" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="KayitTarihi" class="control-label"></label>
+                <input asp-for="KayitTarihi" class="form-control" />
+                <span asp-validation-for="KayitTarihi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TelKontrol" class="control-label"></label>
+                <input asp-for="TelKontrol" class="form-control" />
+                <span asp-validation-for="TelKontrol" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="TelOnayliMi" /> @Html.DisplayNameFor(model => model.TelOnayliMi)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <label asp-for="EpostaKontrol" class="control-label"></label>
+                <input asp-for="EpostaKontrol" class="form-control" />
+                <span asp-validation-for="EpostaKontrol" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="EpostaOnayliMi" /> @Html.DisplayNameFor(model => model.EpostaOnayliMi)
+                    </label>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+</body>
+</html>
