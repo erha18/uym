@@ -1,16 +1,15 @@
-<Project Sdk="Microsoft.NET.Sdk">
-
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>C:\Users\erdal\source\repos\uym\Cozum\Backup1\</UpgradeBackupLocation>
+    <OldToolsVersion>15.0</OldToolsVersion>
   </PropertyGroup>
-
   <ItemGroup>
     <Folder Include="Mulk\Varlik\Kisi\Tip\" />
   </ItemGroup>
-
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.0.2" />
   </ItemGroup>
-
 </Project>
