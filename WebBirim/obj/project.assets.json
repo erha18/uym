@@ -5078,11 +5078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/WebBirim/WebBirim.csproj",
+      "projectUniqueName": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/WebBirim/WebBirim.csproj",
       "projectName": "WebBirim",
-      "projectPath": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/WebBirim/WebBirim.csproj",
+      "projectPath": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/WebBirim/WebBirim.csproj",
       "packagesPath": "/Users/halilibrahimtohumoglu/.nuget/packages/",
-      "outputPath": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/WebBirim/obj",
+      "outputPath": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/WebBirim/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5099,14 +5099,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/Birim.csproj": {
-              "projectPath": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Birim/Birim.csproj"
+            "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/Birim/Birim.csproj": {
+              "projectPath": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/Birim/Birim.csproj"
             },
-            "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/SuretVarlik/SuretVarlik.csproj": {
-              "projectPath": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/SuretVarlik/SuretVarlik.csproj"
+            "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/SuretVarlik/SuretVarlik.csproj": {
+              "projectPath": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/SuretVarlik/SuretVarlik.csproj"
             },
-            "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/Veri.csproj": {
-              "projectPath": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/Veri.csproj"
+            "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/Veri/Veri.csproj": {
+              "projectPath": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/Veri/Veri.csproj"
             }
           }
         }

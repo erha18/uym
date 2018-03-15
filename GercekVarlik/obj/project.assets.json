@@ -2965,11 +2965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/GercekVarlik.csproj",
+      "projectUniqueName": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/GercekVarlik/GercekVarlik.csproj",
       "projectName": "GercekVarlik",
-      "projectPath": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/GercekVarlik.csproj",
+      "projectPath": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/GercekVarlik/GercekVarlik.csproj",
       "packagesPath": "/Users/halilibrahimtohumoglu/.nuget/packages/",
-      "outputPath": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/obj",
+      "outputPath": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/GercekVarlik/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -2985,11 +2985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/Veri.csproj",
+      "projectUniqueName": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/Veri/Veri.csproj",
       "projectName": "Veri",
-      "projectPath": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/Veri.csproj",
+      "projectPath": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/Veri/Veri.csproj",
       "packagesPath": "/Users/halilibrahimtohumoglu/.nuget/packages/",
-      "outputPath": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/Veri/obj",
+      "outputPath": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/Veri/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -3006,8 +3006,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/GercekVarlik.csproj": {
-              "projectPath": "/Users/halilibrahimtohumoglu/Desktop/Yedek.Cozum-9f61c7835c7ca5e8ec85e8a3e7d07d1dbb636d25/GercekVarlik/GercekVarlik.csproj"
+            "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/GercekVarlik/GercekVarlik.csproj": {
+              "projectPath": "/Users/halilibrahimtohumoglu/Documents/GitHub/uym/GercekVarlik/GercekVarlik.csproj"
             }
           }
         }
